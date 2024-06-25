@@ -1,0 +1,9 @@
+{
+    "id": "my-test-module",
+    "title": "My Test Module",
+    "description": "This is my test module, it doesn't do too much.",
+    "version": "1.0.0",
+    "scripts": [
+        "scripts/test-script.js"
+    ]
+}
