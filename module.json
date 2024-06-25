@@ -19,6 +19,6 @@
         "scripts/init.js"
     ],
     "url": "https://github.com/Jaris-Rener/FoundryVTT_ModuleTest",
-    "manifest": "https://raw.githubusercontent.com/Jaris-Rener/FoundryVTT_ModuleTest/master/module.json",
-    "download": ""
+    "manifest": "https://github.com/Jaris-Rener/FoundryVTT_ModuleTest/releases/download/1.0.0/module.json",
+    "download": "https://github.com/Jaris-Rener/FoundryVTT_ModuleTest/releases/download/1.0.0/TestModule.zip"
   }
