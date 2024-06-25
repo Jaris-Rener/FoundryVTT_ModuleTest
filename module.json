@@ -1,9 +1,23 @@
 {
-    "id": "my-test-module",
-    "title": "My Test Module",
-    "description": "This is my test module, it doesn't do too much.",
+    "id": "cool-module",
+    "name": "cool-module",
+    "title": "Cool Module",
+    "description": "A collection of cool content.",
     "version": "1.0.0",
+    "authors": [
+        {
+            "name": "Jaris"
+        }
+    ],
+    "minimumCoreVersion": "9",
+    "compatibleCoreVersion": "12",
+    "compatibility": {
+        "minimum": "9",
+        "verified": "12"
+    },
     "scripts": [
         "scripts/test-script.js"
-    ]
-}
+    ],
+    "manifest": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/module.json",
+    "download": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/my-content-module.zip"
+  }
