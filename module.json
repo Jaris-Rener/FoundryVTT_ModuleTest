@@ -16,7 +16,9 @@
         "verified": "12"
     },
     "scripts": [
-        "scripts/test-script.js"
+        "scripts/init.js"
     ],
-    "manifest": "https://raw.githubusercontent.com/Jaris-Rener/FoundryVTT_ModuleTest/master/module.json"
+    "url": "https://github.com/Jaris-Rener/FoundryVTT_ModuleTest",
+    "manifest": "https://raw.githubusercontent.com/Jaris-Rener/FoundryVTT_ModuleTest/master/module.json",
+    "download": ""
   }
